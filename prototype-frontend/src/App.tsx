@@ -11,7 +11,6 @@ function App() {
           <img src={udelarLogo} className="logo" alt="Udelar logo" />
         </a>
       </div>
-      
       <div className="card">
         <button>
           Obtener integrantes
